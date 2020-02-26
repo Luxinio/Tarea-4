@@ -1,6 +1,6 @@
 # Tarea-4  
 
 * Mision  
-  * Crear la mejor tarea 4 indivudual  
+  * Crear la mejor tarea indivudual en el grupo 2860 de Sistemas de información
 * Visión
-  * Traer humor a ete mundo en caos con memecillos y chascarrillos 
+  * Traer humor a este mundo en caos con memecillos y chascarrillos 
