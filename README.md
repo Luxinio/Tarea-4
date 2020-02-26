@@ -5,4 +5,4 @@
 * Visión
   * Traer humor a este mundo en caos con memecillos y chascarrillos 
 * Integrantes
- * Yo y mi otro yo (Sin Irene esta vez)
+  * Yo y mi otro yo (Sin Irene esta vez)
