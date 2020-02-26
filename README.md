@@ -1,6 +1,6 @@
 # Tarea-4  
 
-*Mision  
+* Mision  
 
 Crear la mejor tarea 4 indivudual  
 
